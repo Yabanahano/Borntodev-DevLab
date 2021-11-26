@@ -5,4 +5,4 @@ My all code in Borntodev DevLab
 
 ### Why code intents is very suck?
 Bc i don't use web scap but i copy code from the website
-that why intents is very suck
+to vscodium that why intents is very suck
